@@ -1,1 +1,1 @@
-# projectb's README
+# 10 Days Of JavaScript
